@@ -4,7 +4,7 @@
   <title><![CDATA[Marvel0us]]></title>
   <link href="http://Marvel0us.github.io/atom.xml" rel="self"/>
   <link href="http://Marvel0us.github.io/"/>
-  <updated>2013-08-14T08:58:26-07:00</updated>
+  <updated>2013-08-14T09:09:23-07:00</updated>
   <id>http://Marvel0us.github.io/</id>
   <author>
     <name><![CDATA[Marvel0us]]></name>
@@ -14,22 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Title]]></title>
+    <title type="html"><![CDATA[第一篇Blog]]></title>
     <link href="http://Marvel0us.github.io/blog/2013/08/14/title/"/>
-    <updated>2013-08-14T00:00:00-07:00</updated>
+    <updated>2013-08-14T08:56:00-07:00</updated>
     <id>http://Marvel0us.github.io/blog/2013/08/14/title</id>
-    <content type="html"><![CDATA[<h1>encoding: utf-8</h1>
-
-<hr />
-
-<p>layout: post
-title: &ldquo;第一篇Blog&rdquo;
-date: 2013-08-14 08:56
-comments: true</p>
-
-<h2>categories: </h2>
-
-<p>TEST</p>
+    <content type="html"><![CDATA[TEST
 ]]></content>
   </entry>
   
