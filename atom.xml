@@ -4,7 +4,7 @@
   <title><![CDATA[Marvel0us]]></title>
   <link href="http://Marvel0us.github.io/atom.xml" rel="self"/>
   <link href="http://Marvel0us.github.io/"/>
-  <updated>2013-08-14T09:27:26-07:00</updated>
+  <updated>2013-08-14T09:33:28-07:00</updated>
   <id>http://Marvel0us.github.io/</id>
   <author>
     <name><![CDATA[Marvel0us]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[第一篇Blog]]></title>
-    <link href="http://Marvel0us.github.io/blog/2013/08/14/title/"/>
-    <updated>2013-08-14T08:56:00-07:00</updated>
-    <id>http://Marvel0us.github.io/blog/2013/08/14/title</id>
+    <link href="http://Marvel0us.github.io/blog/2013/08/15/title/"/>
+    <updated>2013-08-15T00:30:00-07:00</updated>
+    <id>http://Marvel0us.github.io/blog/2013/08/15/title</id>
     <content type="html"><![CDATA[<p>第一次尝试自己搭建一个octopress，虽然是麻烦了一点点，不过做成之后还是蛮有成就感的。
 折腾成功之后的感觉确实很开心，就像ez说的【生命不息，折腾不止】不折腾的人生便缺了很多精彩啊~</p>
 
