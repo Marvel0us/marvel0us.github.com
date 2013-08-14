@@ -4,7 +4,7 @@
   <title><![CDATA[Marvel0us]]></title>
   <link href="http://Marvel0us.github.io/atom.xml" rel="self"/>
   <link href="http://Marvel0us.github.io/"/>
-  <updated>2013-08-14T08:44:43-07:00</updated>
+  <updated>2013-08-14T08:52:20-07:00</updated>
   <id>http://Marvel0us.github.io/</id>
   <author>
     <name><![CDATA[Marvel0us]]></name>
@@ -12,26 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Test]]></title>
-    <link href="http://Marvel0us.github.io/blog/2013/08/14/test/"/>
-    <updated>2013-08-14T00:00:00-07:00</updated>
-    <id>http://Marvel0us.github.io/blog/2013/08/14/test</id>
-    <content type="html"><![CDATA[<h1>encoding: utf-8</h1>
-
-<hr />
-
-<p>layout: post
-title: &ldquo;Test&rdquo;
-date: 2013-08-14 08:39
-author:Marvel0us
-comments: true</p>
-
-<h2>categories: </h2>
-
-<p>Test</p>
-]]></content>
-  </entry>
   
 </feed>
