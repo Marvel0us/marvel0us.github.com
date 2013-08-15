@@ -4,7 +4,7 @@
   <title><![CDATA[Marvel0us]]></title>
   <link href="http://Marvel0us.github.io/atom.xml" rel="self"/>
   <link href="http://Marvel0us.github.io/"/>
-  <updated>2013-08-15T22:46:39+08:00</updated>
+  <updated>2013-08-15T23:35:00+08:00</updated>
   <id>http://Marvel0us.github.io/</id>
   <author>
     <name><![CDATA[Marvel0us]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[关于这个Blog]]></title>
+    <link href="http://Marvel0us.github.io/blog/2013/08/15/sui-bi/"/>
+    <updated>2013-08-15T22:49:00+08:00</updated>
+    <id>http://Marvel0us.github.io/blog/2013/08/15/sui-bi</id>
+    <content type="html"><![CDATA[<p>————很长时间没有写文了，码字的时候断断续续，不知道要写些什么。</p>
+
+<!--more-->
+
+
+<p>其实我也不太明白为什么自己要做这个Blog，虽然这个blog是A blogging framework for hackers.不过我也不是特别想把这个blog变成技术性的（虽然没什么技术就是了。。）想想拿来记录生活吧，会不会太暴殄天物……</p>
+
+<p>这几天敲了那么多代码，发现其实自己某些时候还是有点靠谱的，遇到折腾的事，就算是折腾到天亮，若是没折腾好，也会用心做完，也算是发现了自己一个优点吧~不过三天打鱼两天晒网的习惯…也确实该改改了，三年时间因为这习惯没少吃亏。</p>
+
+<p>明天驾考回来加个评论功能，方便吐槽~=&ndash;=</p>
+
+<p>跟着微博的习惯最后来首歌</p>
+
+<p>林俊杰-一眼万年</p>
+
+<p>[(<a href="http://ww4.sinaimg.cn/mw690/7bedac8bjw1e7b626y8x8j20hs0qoacp.jpg">http://ww4.sinaimg.cn/mw690/7bedac8bjw1e7b626y8x8j20hs0qoacp.jpg</a>)} 没错只是张图- -别想我放试听什么的了。。。原谅我技术太弱。。。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第一篇Blog]]></title>
